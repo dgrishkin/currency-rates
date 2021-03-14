@@ -1,0 +1,1 @@
+export const CHANGE_SOME_STR = "CHANGE_SOME_STR";
